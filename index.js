@@ -231,5 +231,257 @@ const tarotCards = {
         image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
 
     },
+    card43: {
+        card: "Ace of Cups",
+        meaning: "This card represents an unfailing source of balm for body, heart and soul. It suggests that you can relax into a safety net of love, support and communion.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
 
-}
+    },
+    card43: {
+        card: "Two of Cups",
+        meaning: "The Two in this suit signifies a union of souls. This card traditionally describes a romantic relationship, but also includes the idea that all good friendships and partnerships are based on a natural affinity and a deep mutual understanding. As a personal reflection, it can also signify that your mind and your soul are discovering each other, maybe for the first time.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Three of Cups",
+        meaning: "The Three of this suit is often entitled Consent, or simply Yes. This card resonates with a spirit of agreement, mutual support, encouragement and teamwork.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Four of Cups",
+        meaning: "A Four in this suit refers to a restless time, where a person may have become dissatisfied with life, and emotionally uncomfortable. Feeling stagnated, longing for change, the heart ponders its options ... as it should.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Five of Cups",
+        meaning: "The Five of this suit traditionally portrays the mess that is left after an emotional upheaval, such as a tantrum or fit of rage. Consequences run the gamut from a hangover and lost wages, to abuse and ruined relationships.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Six of Cups",
+        meaning: "The Six of this suit generally represents a refreshing openness and innocence, a willingness to learn and an optimism that things will get better as we advance together in understanding. The traditional title, The Past, reminds us of our original nature, when we were young and enthusiastic, when anything was possible and the future was an open book. We are to remember that this same freshness, those new possibilities, are always available to us, even now.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Seven of Cups",
+        meaning: "The Seven of this suit typically refers to works of the imagination, the use of dream and vision to invent a future different than the life one is currently living. This card reminds us that our outcomes are not set in stone.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Eight of Cups",
+        meaning: "The Eight of this suit is often used to signify a disappointment, emotional setback, betrayal or injury to the heart. Some Tarot decks illustrate this principle showing a young woman who has just been molested and then cast aside by a stranger passing through her village.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Nine of Cups",
+        meaning: "The rewards of high achievement are not all monetary, however. This happiness also refers to the feelings of fulfillment that come from good service to the community and support of one's family, as well as gratitude for all the blessings in one's life.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Ten of Cups",
+        meaning: "The Ten of this suit traditionally signifies family and community, often showing a celebratory scene including many generations, crowned by a rainbow signifying the end of hard times.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Page of Cups",
+        meaning: "It may be that a sense of being grounded in reality has not yet entirely set in, such that he or she is easily tossed about by external forces and events. This person must work to achieve a stronger will and a more calculating mind, to balance and protect all that wonderful sensitivity.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Knight of Cups",
+        meaning: "Traditionally, this card in this suit has pictured a homecoming -- portraying a return to his true heart's home after a long journey. Like the prodigal son, he may be returning after long estrangement from all he holds dear.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Queen of Cups",
+        meaning: "This person sometimes has difficulty identifying her own best interests in the midst of her responsiveness to others. As a result, she sometimes appears slightly unfocused or perhaps overwhelmed, filled as she is with 'spirits'. She represents the Grail Queen, as well as the Goddess of the Family.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "King of Cups",
+        meaning: "The man in this card doesn't need to speak to communicate strength, passion and commitment. Sometimes he is robed like a priest or shaman. Intense and intuitive, he is a force to be reckoned with.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Ace of Swords",
+        meaning: "The sword is sometimes shown piercing a silver and/or laurel crown, a symbol of optimism implying evolution, progress, a sense of hope and victory. It is occasionally shown pointed downwards -- a darker message, which refers to sacrifice, challenges and a critical environment.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Two of Swords",
+        meaning: "The Two in this suit usually represents conflicting ideas or visions. These must be reconciled by communication in order to arrive in a harmonious place or to complete strategic negotiations. Mixed signals prevail.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Three of Swords",
+        meaning: "Traditionally, the Three of Swords signified separation or the breakup of a significant relationship, including the tragic emotions that come along with such an event. Some cards show the horizon filled with storm clouds and flashing lightning.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Four of Swords",
+        meaning: "A vision quest or pilgrimage to one's own center allows us to contemplate our roots, values and goals. Here you will see your place in the flow of time ... and unfolding generations.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Five of Swords",
+        meaning: "Traditionally, the Five of this suit references the grim and sobering process of cleaning up the battlefield after a conflict. The war as a whole has not been won or lost yet, but in this skirmish there were grievous casualties. This card admonishes the loser to study carefully what went wrong, so that a new strategy can be devised and more setbacks forestalled. There is a need to regroup and rethink the game plan, discover your blind spots and weak links, and take corrective measures before getting back into the field for another round.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Six of Swords",
+        meaning: "The Six of this suit has generally been associated with the objectivity of scientific method, employed through the generations to sift fact from superstition, build facts into theories, and theories into laws which we can trust and use to improve our lives. One early title for this card was The Navigator -- one who has learned enough about the relation between the Earth and the heavens to be able to set a course across trackless oceans and arrive at a chosen spot on distant shores.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Seven of Swords",
+        meaning: "The Seven of this suit typically refers to mental preparedness, acquired through the use of imagination, including the rehearsing and visualizing of desired results. This card represents the positive mental habits of a natural winner. The image most often associated with this card is that of a canny warrior who has infiltrated into the enemy camp on the eve of a fateful battle, checking out their preparations and stealing their swords. Such a move is guaranteed to demoralize the enemy and undermine their performance in the upcoming confrontation.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Eight of Swords",
+        meaning: "This card shows what happens to that great idea in real time, where the rubber meets the road. The Test represents your chance to vindicate the time and energy spent in getting ready for a big moment. In most cases, you will either pass or fail, with little in the way of available middle ground.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Nine of Swords",
+        meaning: " The woman in the picture represents the concerns of the heart, the damage to the soul and to vulnerable ones, when the ego-mind becomes so invested in control and domination that it does not count the human costs. A sensitive, subtle, heartfelt approach to nature (the 'feminine') is trampled and thrown aside in service to a 'winner takes all' mentality.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Ten of Swords",
+        meaning: "The Ten of this suit represents finality, the end of something. As is easy to grasp from the picture in many decks, there is no hope for revival here. A limit has been reached, a line has been crossed and there is no turning back. In some situations this may be felt as a tragic loss, but it often brings with it a paradoxical sense of release and closure. The waiting and wondering are over. There is no more ambiguity. You can rightly let go and move on, as there is no more progress to be made here.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Page of Swords",
+        meaning: "This person is acting as the eyes and ears of her patron, and so she is sometimes referred to as The Watchman. Even kings are powerless if this messenger chooses to use her access to sensitive information for her own gain, as is implied by her other name, The Spy. She could even be working as a double agent, playing both sides against each other to serve her own agenda. Her title is really camouflage in itself, serving as protective coloration so she can move among the people unrecognized, collecting information anonymously. Her vigilance often conceals an ulterior motive. She is a watcher who must herself be watched, because she dreams of someday taking matters into her own hands, preempting the plans of her employers.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Knight of Swords",
+        meaning: "This card is traditionally entitled The Knight, but in some modern decks appears as The Prince. Traditionally, this card portrays the restless mind, aroused by thoughts of offense and defense, storming around searching for a target to pounce on. He often feels slighted, has a chip on his shoulder and bristles with a hostile attitude. His usual method is to look for someone to blame for his irritation.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Queen of Swords",
+        meaning: "Representing the energy of a Queen, this feminine power was traditionally known as a widow, crone or divorcee. In modern times, she can be viewed as a model of self-sufficiency, independence and intelligence. She often has extremely high standards due to her subtle sensitivities, which can be perceived by those around her as being critical or hard to please. Her true motive is to refine the world, to upgrade peoples' understanding -- so that everyone can have the space they need to become fully themselves.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "King of Swords",
+        meaning: "Traditionally, representing the energy of a King, this masculine energy form is The Adjudicator, the wise judge or mediator. He helps parties in conflict discover common ground and build upon it, and guides societies to see their greater good. His archetype is Solomon, ancient lawgiver and philosopher of the Old Testament. Sometimes appearing cool and detached, he can be misunderstood as not caring.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Ace of Coins",
+        meaning: "The Ace of this suit is usually pictured with a garden or agricultural backdrop, and symbolizes a seed. If this 'talent' is planted and tended carefully, it will sprout and reward you with a good harvest. Think of it as a seed of your future fulfillment. An Ace represents the first step to a goal, and if that step is repeated, it will cover great distances. Generally, the suit of Coins are referring to the tangible realities in daily life, but in the case of the Ace, it could be symbolizing a winning idea, game plan or blueprint for eventual materialization.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Two of Coins",
+        meaning: "This card counsels patience, so do not allow yourself to be rushed. The figure-eight image is a symbol of immortality and eternity. Its message is 'No need to hurry. You have all the time you need to work this out, no matter how things appear right now.' Implied within this scenario is the idea that changes are in the works, but you will do better to stay calm until you have more information. Everything is in flux at a time like this.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Three of Coins",
+        meaning: "The Three is traditionally the card of genius. Here we usually see a master craftsman conferring with his masons on the installation of a beautiful stained-glass window in the cathedral. This designer is often likened to Leonardo da Vinci or Michelangelo, a multi-talented visionary who has no peers in talent or productivity. The masterwork is being proudly showcased for future generations, as an object of personal and collective pride. On some cards, the genius is portrayed at his studio, alone and burning the midnight oil, in a creative ferment -- driven to draw, paint, invent, or whatever work genius wants to bring into creation. As a subtext to the rewards of genius are the days and weeks of intense concentration it takes to solve the problems that great works entail.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Four of Coins",
+        meaning: "A Four in this suit has been used to express the paradoxical aspect of material security -- the two-edged sword of having been well supported and protected. It sounds completely idyllic until one investigates the real demands that prosperity places upon people -- the pressure of big decisions, responsibilities toward dependents or employees, and even tougher decisions in times of insecurity.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Five of Coins",
+        meaning: "The Five of this suit is the card of desire and gratification, expressed in classical tradition as flattery and false promises. This card represents both the seducer and the one seduced. There is undeniable excitement in the attraction of opposites; we have all had delightful moments of magnetism with a stranger. However, if promises are only spoken to achieve short-term gratification with no intent of follow-through, or the attraction appears as competition to more fulfilling relationships, the long-term result won't be worth the thrill of the chase.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Six of Coins",
+        meaning: "The Six of this suit is the card of patronage -- generosity with strings attached. The picture shows a rich man giving alms, his reputation enhanced from his giving, but without having helped anybody really better him or herself. Sometimes there is an inference that the giver will be expecting something back for his giving, perhaps sexual favors.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Seven of Coins",
+        meaning: "The Seven of this suit is typically a paean to the humble laborer who is willing to show up every day and sweat in the sun for next season's bounty. The traditional concept is cultivation, with an attitude that slow and steady wins the race, with faith in nature's assistance. The protagonist of this card doesn't make excuses, isn't whimsical or moody, but is dedicated and sees the job through. Of course, it's no good to count your chickens before they hatch, but there's no question that the person who is vigilant over a project is more likely to get the desired result. Someone who works with nature, cooperating with her ways, will waste less energy and time than the person who works against her. As a side meaning, we sometimes see this normally humble farmer in a moment of frenzy, betting the crop on a roll of the dice. This represents a moment of dementia, addiction or desperation which hopefully will not last long enough for the farmer to lose everything!",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Eight of Coins",
+        meaning: "The Eight of this suit is the card of works. We see here the successful artisan spending time at his bench, hammering out the commissions he has attracted because of his skill. This artist is the best in her or his class, so popular that it's become difficult keep up with demand. She is paid whatever she asks and accepts only the most worthy assignments. If there is a problem in this card, it has to do with the trap of workaholism, the feeling of being so indispensable that you will not ask for help or delegate anything. There is also the issue of becoming so identified as the creator of elegant works, that the personal identity of the creator becomes consumed by the works themselves. This artisan seldom gets to have a home life, time off, much time for friends. The solution lies in balancing creative energy with a personal life.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Nine of Coins",
+        meaning: "The Nine of this suit points to a person who is financially secure enough to live comfortably. This is about someone supported by her own business, inheritance or property. This is one person in a thousand.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Ten of Coins",
+        meaning: "The Ten of this suit represents the final result of cumulative efforts -- perhaps after generations of effort -- resulting in such abundance that it directly and indirectly supports a lot of people. One layer of meaning refers to the pride of supporting your own lineage of well-loved souls.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Page of Coins",
+        meaning: "This card's energy has to do with learning about compound interest and abundance. Her attention is focused on learning the natural laws that pertain to natural synergies.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Knight of Coins",
+        meaning: "This card is usually called The Knight, but in some modern decks appears as the Prince. Traditionally, this card in this suit pictures an overseer of fertility and growth. His period of ascendancy is during the quiet years between conflicts, when everybody can collaborate in raising the collective standard of living. His horse is usually huge and thickset, more suitable to pulling a plow than riding swiftly into battle. His temperament is easygoing and relaxed, he's moving at the rate of the flow, because he knows that you can't hurry time. Seeing the bigger picture, like a farmer planning for the future, he doesn't allow momentary fads or fancies to distract him, and he doesn't take seriously those who do. One can feel his stability and dedication -- he is totally responsible and even somewhat predictable when it comes to his projects. He is earthy and gentle, as simple and deep as the soil he tills and the flowers he loves.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "Queen of Coins",
+        meaning: "Traditionally, representing the energy of a Queen, this feminine guardian is endowed with enormous good sense and problem solving energy, but she is not particularly entrepreneurial. She loves to advise, encourage, and empower those she gets involved with, studying their problems with them and setting them up to solve them. Traditionally, she was pictured as the Sibyl or Oracle, perhaps a Tarot reader, who made herself available to people in need, no matter what their social class or situation. In modern times, she will be found educating, healing, managing disaster aid programs or a charitable drive of some sort. In every case, she does not see the benefits that exist in her life as belonging solely to her. She feels the needs of her people and will spend freely of her time, energy, skills, money to see that nobody is left out. For this, and because she likes to work in an atmosphere of beauty, enjoyment and abundance, she is sometimes accused of being extravagant. But she works hard, and she sees no reason to deny herself the rewards of a job well done. Everyone who comes in contact with her feels enriched by her enjoyment in living.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+    card43: {
+        card: "King of Coins",
+        meaning: "Representing the energy of a King, this card in the suit of Coins or Pentacles displays one who has accomplished a lot in life and has arranged his or her affairs so that he has much good to show for it. Possessing a practical genius in the ways of the world, he loves to build things. Because he's so good at deal-making, this character is privy to the biggest deals in town. He has the power to make or break people financially. Although this does not always win him love, it certainly earns him respect.",
+        image: "https://res.cloudinary.com/dqggp5pir/image/upload/v1703012457/Tarot%20Cards/Tarot_Card_wc3pwm.jpg"
+
+    },
+
+};
